@@ -27,6 +27,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "test"
+    "test",
+    "demo"
   ]
 }
